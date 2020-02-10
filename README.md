@@ -10,4 +10,4 @@ There are following functions providing:
 
 4.provision to print report of the account
 
-4.provision to return Account number,balance and type of the account
+5.provision to return Account number,balance and type of the account
